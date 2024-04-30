@@ -8,4 +8,8 @@ I used Express.js to create the backend API, which handles requests for managing
 On the frontend, I used React and Axios to fetch data from the backend API. Tailwind CSS was used for styling, making it easy to create attractive product cards to display the data.
 
 ****Learning Experience****
-This project was a valuable learning experience for me. I faced challenges such as CORS errors and debugging frontend-backend communication but was able to overcome them. Overall, I spent about 3 hours developing this project and gained practical experience in full-stack web development.
+This project was a valuable learning experience for me. I overcame challenges such as CORS errors and debugging frontend-backend communication. I spent about 3 hours developing this project and gained practical experience in full-stack web development.
+
+
+
+Feel free to explore the code and don't forget to give me starr
